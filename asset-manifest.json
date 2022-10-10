@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RS-School-React/static/css/main.f76be5f6.css",
+    "main.js": "/RS-School-React/static/js/main.ac2c472b.js",
+    "index.html": "/RS-School-React/index.html",
+    "main.f76be5f6.css.map": "/RS-School-React/static/css/main.f76be5f6.css.map",
+    "main.ac2c472b.js.map": "/RS-School-React/static/js/main.ac2c472b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f76be5f6.css",
+    "static/js/main.ac2c472b.js"
+  ]
+}
